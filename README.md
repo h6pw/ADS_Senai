@@ -1,2 +1,2 @@
 # ADS_Senai
-Estudando e aprendendo :3
+Exercícios em Python de diferentes contextos com foco no aprendizado das diversas ferramentas dessa linguagem.
