@@ -1,0 +1,6 @@
+print("Consultar TABUADA")
+n = int(input("Digite um valor: "))
+print('-' * 12)
+print('{}x1={}'.format(n, n*1))
+print('{}x2={}'.format(n, n*2))
+print('-' * 12)

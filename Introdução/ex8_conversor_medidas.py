@@ -1,0 +1,5 @@
+print("Conversor de medidas")
+metros = float(input("Quantos metros? "))
+centimetros = (metros * 100)
+milimetros = (metros * 1000)
+print("O valor de {} metros \n corresponde a {} centimetros \n e {} milimetros".format(metros, centimetros, milimetros))
