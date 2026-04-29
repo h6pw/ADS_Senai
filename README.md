@@ -1,2 +1,2 @@
 # ADS_Senai
-Estudando e aprendendo :3
+Repositório para registrar e organizar atividades referentes a Linguagem de Programação.
